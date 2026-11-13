@@ -9,6 +9,7 @@ gcc -o parent parent.c
 ```bash
 ./parent
 ```
+
 ##IMPORTANT!
 ```bash
 file child.c must be located in the same directory with parent.c
